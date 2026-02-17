@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#10181B",
+            "lang-select-color": "#222829",
+            "bg-light": "#10181B",
+            "welcome-bonus-bg": "#10181B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#24252B",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#AF8558",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#007E4A",
+            "yellow": "#AF8558",
+            "yellow-button": "#007E4A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#10181B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#424243",
+            "providers-back": "#10181B",
+            "faq-label": "#10181B",
+            "bg-footer": "#10181B",
+            "copyright": "#e7e7d5",
+            "starColor": "#AF8558",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3170"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3172",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "HeroSpin Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3173",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "HeroSpin"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "HeroSpin",
+                    "title": "HeroSpin Casino: up to 250% bonus + free spins, slots, live casino, quests & tournaments",
+                    "description": "Play at HeroSpin Casino with thousands of slots, live tables, and instant games. Claim a welcome offer up to 250% plus free spins, join tournaments and quests, exchange rewards, and enjoy smooth, secure payouts.",
+                    "canonical": "herospin-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3174",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "herospin-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3175"
+                },
+                "hero": {
+                    "title": "HeroSpin Casino — bonuses, tournaments, and live games",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3191",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3192",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of games with wins and bonuses",
+                        "Big welcome pack: up to 250% + spins",
+                        "Regular tournaments with strong prize pools",
+                        "Quests and rewards for active play",
+                        "Live casino with pro dealers 24\/7",
+                        "Fast payouts and flexible payment methods",
+                        "Mobile-friendly instant play in browser"
+                    ],
+                    "advantagesAfterText": "We built a gameplay-first experience where rewards feel constant and meaningful. Our casino makes it easy to discover new favourites through smart categories and provider filters. From sign-up to cash-out, everything is designed to stay smooth and secure.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Herospin App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3178",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Herospin App",
+                    "mobileGooglePlayImageTitle": "Herospin App",
+                    "mobileIosImageTitle": "Herospin App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Herospin",
+                        "description1": "What sets us apart is our layered reward system: tournaments, quests, and reward exchanges run at the same time. You keep momentum, unlock extras often, and turn activity into real value.\n",
+                        "items": [
+                            "Up to 250% + 350 FS",
+                            "Tournaments: prizes up to 15,000",
+                            "Quests: daily rewards"
+                        ],
+                        "description2": "In our casino, everything is built around fast gameplay and clear rewards. From the moment you sign up, you land in an interface where slots, live tables, and instant games are easy to find and launch. We keep the lobby fresh, so you always see new releases alongside proven favourites. Slots bring a wide range of mechanics, bonus rounds, and high‑multiplier moments, while the live zone delivers real casino energy with professional dealers. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3179",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "If you love competition, we run tournaments with prize pools and leaderboards on a regular basis. Tournament events are often tied to specific games or themes, so joining feels natural: play as usual and collect points. Our quest system adds extra depth, letting you complete missions across different titles and earn progress rewards. We reward activity not only with bonuses, but also with internal reward mechanics you can exchange for valuable offers. A strong welcome program helps you start confidently, boosting your deposit and adding extra spins to explore top games. After that, recurring promos keep things exciting with reload deals, themed events, and special missions. For long‑term players, our loyalty program unlocks levels, perks, and personalised rewards. The more you play, the more meaningful the advantages become, from extra benefits to faster withdrawals. We focus on convenience too: the casino feels smooth on desktop and mobile, without needing an app. Payments are arranged to keep deposits quick and cash-outs straightforward. Before your first withdrawal, we use standard verification steps to protect your account and funds. Our support team is available 24\/7 to help with anything from bonuses to technical questions. We aim to create an experience where the action stays thrilling and rewards feel frequent and real."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Herospin: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules of play and access: comfort and safety first\n<\/h3>\n\n<p>\nOur casino is available to adult players only, and age is confirmed through standard checks. Registration requires accurate personal details to keep payouts smooth and predictable. Please use only your own account and never share access with anyone else. Any fraud attempts, bonus abuse, or technical manipulation are not allowed, because they undermine fair play. We support responsible play and encourage sensible deposit and betting limits. If needed, you can take a break or request self‑restriction to stay in control. We do not allow any activity that violates provider rules or the principles of fairness. Game results rely on certified random mechanisms for honest outcomes. We respect privacy and use protected channels for data transfer. Extra security measures are applied for logins and payments, and suspicious activity may be limited temporarily for your protection. All promotions run under specific terms, including wagering rules and bet limits during wagering. Our goal is to keep the experience enjoyable, transparent, and safe at every step.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess and usage requirements\n\n\n<\/h4>\n\n <ul>\n            <li>• \n18+ only: account access and gameplay are for adults.\n\n<\/li>\n            <li>• \nOne account per player: protects fairness in bonuses and tournaments.\n\n<\/li>\n            <li>• \nAccurate details: data should match your documents.\n\n<\/li>\n            <li>• \nVerification before payout: standard process to protect funds.\n\n<\/li>\n\t    <li>• \nPlay on your own devices: third‑party access is not allowed.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNot allowed\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBonus abuse: repeated sign-ups, promo hunting, multiple accounts.\n\n<\/li>\n            <li>• \nCollusion and unfair play: any schemes affecting results or leaderboards.\n\n<\/li>\n            <li>• \nTechnical interference: bots, scripts, hacking attempts.\n\n<\/li>\n            <li>• \nIdentity misuse: чужие документы или платёжные способы.\n\n<\/li>\n\t    <li>• \nBreaking wagering rules: exceeding wagering bet limits or bypassing terms.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set deposit and betting limits.\n\n<\/li>\n            <li>• \nBreaks: use time‑outs when you need a pause.\n\n<\/li>\n            <li>• \nSelf‑exclusion: block access for a chosen period.\n\n<\/li>\n            <li>• \nBudget control: play only with money you can afford.\n\n<\/li>\n\t    <li>• \nSupport: contact us if you need limit assistance.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing and data security: how we protect players\n\n<\/h3>\n\n<p>\nWe operate under an international gaming licence framework that sets standards for fairness, player protection, and transparent operations. The licensing model requires identity and anti‑fraud procedures so your account and funds stay protected. We follow responsible play principles and provide self‑restriction tools to help you stay in control. Licensing rules also shape promotions and withdrawals, making them structured and predictable. For us, security is not an add‑on — it is a core standard.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts with platform architecture: we use layered security controls that separate access and reduce risk. Sensitive information is handled on a “need‑to‑know” basis, with internal processes designed to prevent unauthorised use. We continuously update security components, strengthen monitoring, and apply modern account protection practices. Suspicious logins or transactions can trigger additional checks automatically. This helps stop issues before they impact you.\n\n<\/p>\n<br>\n<p>\nFor data transfer, we use modern connection‑level encryption so your information cannot be intercepted during login, deposits, or withdrawals. Encryption protects personal data, payment sessions, and support communications. We apply secure protocols that align with industry standards and add protections against tampering and phishing. Inside the platform, critical information is further secured and isolated. Your account actions follow a protected route from start to finish.\n\n<\/p>\n<br>\n<p>\nOur privacy approach is built so you understand what we collect and why. We use data to create your account, process payments, provide support, personalise offers, and meet essential security procedures. Access is restricted, and storage is managed with security and retention requirements in mind. We do not disclose your information without lawful grounds and use it only for stated purposes. If needed, you can request clarification about data use and manage key account settings.\n\n<\/p>\n<br>\n<p>\nPayments receive their own layer of protection: we work with established providers and apply procedures that reduce errors and unauthorised activity. Some methods may require proof of ownership — a standard player‑protection practice. We recommend unique passwords and enabling any extra security options available in your settings. In disputed cases, we review transaction trails and help you regain control. Our goal is to keep deposits and withdrawals not only fast, but strongly protected.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n24\/7 customer support: fast replies, real solutions\n<\/h3>\n\n<p>\nOur support team is available 24\/7 and helps across everything: sign‑up, bonuses, games, payments, and verification. We keep communication clear so you get answers without unnecessary back‑and‑forth. Live chat is ideal for quick checks and instant solutions, and for complex issues we bring in the right specialists. Email works best for documents and requests that need review, and we keep you updated on progress. Phone support is great for urgent matters related to account access or payments. We focus on tone and clarity: polite, friendly, and straight to the point. In most cases, you receive step‑by‑step guidance so you can resolve things quickly. We also assist with responsible play settings and restrictions when you want more control. We track enquiries to improve service quality continuously. Our goal is to make you feel confident and supported at any time.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: the fastest way to solve game, bonus, and technical questions.\n\n<\/li>\n            <li>• \nEmail: perfect for verification documents and detailed transaction enquiries.\n\n<\/li>\n            <li>• \nPhone: best for urgent cases requiring immediate communication.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times and service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: replies typically arrive within minutes for common questions.\n\n<\/li>\n            <li>• \nEmail: detailed responses usually within a few hours, depending on queue.\n\n<\/li>\n            <li>• \nPhone: fast connection and quick routing to the right help.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages and availability\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMulti‑language support: help in popular interface languages for comfort.\n\n<\/li>\n            <li>• \nClear solution templates: guides tailored to typical issues.\n\n<\/li>\n            <li>• \nConsistent quality: same attentive service across all channels.\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Herospin",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nHeroSpin loyalty program: levels, perks, and rewards for activity\n<\/h3>\n<p>\nOur loyalty program is designed so every action delivers measurable value. You earn points and reward coins from wagering, tournaments, and quests. These rewards unlock levels and strengthen your status — the higher you go, the more perks and personalised offers you receive. The system stays simple: play your favourites and progress is tracked automatically. A key feature is reward exchange, so you choose the reward style that fits you best. Higher levels unlock extra benefits such as increased cashback, special reload deals, gift free spins, and access to exclusive events. Comfort improves too: priority support and more flexible withdrawal limits become available as you level up. The program works across slots, live games, and instant formats, driven by real activity. Rules are clear: points depend on game type and wager amounts, and details are always visible in your account. Rewards can be earned frequently, not just occasionally, because quests and tournaments run consistently. For players who like a tailored approach, top tiers unlock individual deals and gifts. We balance the system to reward both short sessions and long‑term play.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAuto‑enrolment: create an account and verify your profile.\n\n<\/li>\n            <li>• \nPoints earning: from slots, live games, instant games, and tournaments.\n\n<\/li>\n            <li>• \nReward coins: from quests and achievements; exchangeable for offers.\n\n<\/li>\n            <li>• \nBonus validity: depends on the selected reward; shown at activation.\n\n<\/li>\n\t    <li>• \nFair play: following account and promo rules keeps all perks active.\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevels and how to reach them \n<\/h4>\n\n <ul>\n            <li>• \nRookie (0–999 points): starter perks, reward exchange access.\n\n<\/li>\n            <li>• \nExplorer (1,000–4,999): +10% cashback up to 50, recurring missions.\n\n<\/li>\n            <li>• \nHero (5,000–14,999): 15% cashback up to 150, weekly free spins (up to 50).\n\n<\/li>\n            <li>• \nChampion (15,000–39,999): 20% cashback up to 300, reload up to 30% (cap 300).\n\n<\/li>\n\t    <li>• \nLegend (40,000+): 25% cashback up to 500, exclusive promos, personal gifts.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProgram perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback: 10%–25% by tier, caps up to 50\/150\/300\/500.\n\n<\/li>\n            <li>• \nReload deals: up to 30%–50% on selected days, higher caps at higher tiers.\n\n<\/li>\n            <li>• \nFree spins: recurring packs up to 50–100 spins on promo slots.\n\n<\/li>\n            <li>• \nReward exchange: convert coins into bonus money from 5 up to 300+.\n\n<\/li>\n\t    <li>• \nTournament perks: access to special leaderboards and faster reward release.\n\n<\/li>\n\t    <li>• \nSupport: priority handling at higher tiers.\n\n<\/li>\n\t    <li>• \nLimits & speed: more flexible limits and faster processing as status grows.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHeroSpin bonuses and promos: more winning chances every day\n<\/h3>\n\n<p>\nWe run a rich promo system that enhances gameplay and gives you more ways to hit results. It starts with a strong welcome offer that boosts your opening bankroll and adds free spins to explore popular slots. Next come frequent reload deals that help you keep momentum throughout the week. If you like competitive play, our tournaments feature leaderboards and prize pools where points are earned through selected slot action. Tournament themes rotate often, so you can always find an event that suits your style. Alongside that, our quest system rewards progress through missions across different games. Rewards stay flexible — exchange them into bonus funds or free spins depending on what you prefer. We also launch seasonal events with themed weeks, holiday missions, and special draws for active players. During events, you can unlock extra point multipliers, bonus days, and boosted mission rewards. For slots, we regularly spotlight “game of the week” picks with extra perks on specific titles. Live casino fans can enjoy targeted offers on selected tables and game shows. For instant and crash formats, we run challenges based on streaks and mission completion. Another layer is personalised deals: active play can trigger individual promo codes and gifts. We aim to keep promos ongoing rather than one‑off. Each offer comes with clear terms and can be activated in a few clicks. The result is a system that keeps action powered up: more spins, more attempts, and more reasons to return.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome pack: up to 250% deposit boost + up to 350 free spins for a strong start.\n\n<\/li>\n            <li>• \nReload bonuses: up to 50% on selected days to keep bankroll momentum.\n\n<\/li>\n            <li>• \nEvent cashback (outside loyalty): up to 10% within special campaigns.\n\n<\/li>\n            <li>• \nSlot tournaments: prize pools up to 15,000 with leaderboards and quick entry.\n\n<\/li>\n\t    <li>• \nWeekly races: rewards for activity points and consistent play.\n\n<\/li>\n\t    <li>• \nQuest events: mission chains with stage rewards and final bonuses.\n\n<\/li>\n\t    <li>• \nGame of the week: extra perks like up to 50 free spins or bonus days.\n\n<\/li>\n\t    <li>• \nSeasonal events: holiday missions, themed weeks, special prize draws.\n\n<\/li>\n\t    <li>• \nLive offers: promos on selected tables\/shows, streak-based rewards.\n\n<\/li>\n\t    <li>• \nInstant\/crash challenges: rewards for streaks, tasks, and targets.\n\n<\/li>\n\t    <li>• \nPersonal promos: individual codes, gifted free spins, activity-based bonuses.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames and betting at HeroSpin: slots, live tables, and instant action\n<\/h3>\n\n<p>\nWe built a wide entertainment range so you can play to match your mood — from relaxed slot sessions to high‑energy live shows. In the slot lobby you’ll find classics, new releases, and feature‑rich titles with free spins, bonus buys, and big multiplier moments. If you enjoy progression, many slots work perfectly with tournaments and quests, letting you play and earn rewards at the same time. In the live casino, you get real‑venue vibes with roulette, blackjack, baccarat, and hosted game shows. Table games are also available in virtual versions when you prefer faster rounds without waiting. We also offer instant games and crash formats where speed, risk control, and streaks matter. New content arrives regularly to keep the lobby fresh. Smart navigation lets you filter by provider, mechanics, and popularity. Many titles are available in demo mode so you can test gameplay before wagering. We support varied bet styles so you can choose a comfortable risk level. Sessions feel smooth on both desktop and mobile, even during busy tournament periods. The result is a line‑up that fits both new players and experienced ones.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGame categories\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classic, video slots, Megaways mechanics, bonus buys, high multipliers.\n\n<\/li>\n            <li>• \nJackpots: progressive prize potential for big hits.\n\n<\/li>\n            <li>• \nLive casino: roulette, blackjack, baccarat, plus hosted game shows.\n\n<\/li>\n            <li>• \nTable games: virtual versions for faster pacing.\n\n<\/li>\n\t    <li>• \nInstant games: quick rounds with immediate results.\n\n<\/li>\n\t    <li>• \nCrash games: dynamic multipliers and cash‑out strategy.\n\n<\/li>\n\t    <li>• \nTournament slots: titles ideal for leaderboard point runs.\n\n<\/li>\n\t    <li>• \nQuest games: games frequently featured in missions.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBet limits at HeroSpin: minimums and maximums by category\n<\/h3>\n\n<p> \nWe support a broad betting range so you can play comfortably — from low‑risk spins to high‑limit action. Minimum stakes are perfect for steady play and testing new titles, while maximum stakes suit players chasing bigger targets. Limits can vary by game and provider, but category benchmarks stay consistent. Use the table below to pick the right format for your bankroll.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #AF8558;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus ‑ buy slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Virtual roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$500<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Virtual blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Virtual baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$1,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live game shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">AU$1,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals at HeroSpin: methods, speed, and payout limits\n<\/h3>\n\n<p>\nWe designed payouts to be clear and convenient so you can receive winnings without unnecessary hassle. Cash‑outs are requested from the cashier in a few steps: pick a method, enter an amount, and confirm. Before your first payout, we run standard identity verification to protect your account and prevent fraud. Once verified, withdrawals typically move faster because the core checks are already completed. Speed depends on your method: e‑wallets and crypto often process quicker, while cards and bank transfers can take longer due to payment network procedures. We aim to approve requests promptly, and you can always track status inside your account. If a specific method needs extra confirmation, support will guide you on what’s required and how to speed things up. We offer a selection of popular payment options so you can choose what fits your routine. Limits depend on your status and privileges — higher levels unlock higher caps and more flexibility. We recommend planning withdrawals with banking timelines in mind. Fees, conversion, and restrictions are displayed before you finalise the request, keeping everything transparent. The result is a predictable cash‑out flow backed by strong security.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank cards: classic and convenient for most players.\n\n<\/li>\n            <li>• \nBank transfer: reliable for larger, planned payouts.\n\n<\/li>\n            <li>• \nE‑wallets: fast processing and easy balance management.\n\n<\/li>\n            <li>• \nCryptocurrency: flexible and often quicker for frequent cash‑outs.\n\n<\/li>\n\t    <li>• \nAlternative methods: local solutions and payment aggregators (availability depends on profile).\n\n\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed (typical ranges)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nE‑wallets: usually 0–24 hours after approval.\n\n<\/li>\n            <li>• \nCrypto: often 1–24 hours after approval.\n\n<\/li>\n            <li>• \nBank cards: typically 1–3 business days.\n\n<\/li>\n            <li>• \nBank transfer: usually 2–5 business days.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing stages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nInternal review: request is checked before sending to the payment network.\n\n<\/li>\n            <li>• \nProfile verification: first cash‑out may require documents.\n\n<\/li>\n            <li>• \nAccount status tracking: “processing”, “approved”, “sent”.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits \n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from 20 (depends on method).\n\n<\/li>\n            <li>• \nBase tier: up to 500 per day and up to 7,000 per month.\n\n<\/li>\n            <li>• \nHigher tiers: up to 1,500 per day and up to 20,000 per month.\n\n<\/li>\n            <li>• \nStatus flexibility: limits grow with privileges and activity.\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I play in demo mode for free?",
+                            "answer": "Yes, many games offer demo play so you can test mechanics, bonus features, and pacing before wagering real money.\n\n\n"
+                        },
+                        {
+                            "title": "How do I know which slots free spins apply to?",
+                            "answer": "When you activate a bonus, we show eligible games, key terms, and expiry time directly in your account.\n\n\n"
+                        },
+                        {
+                            "title": "How do I join a tournament?",
+                            "answer": "Open the tournaments section, pick an event, and play the listed games — points track automatically and your rank shows on the leaderboard.\n\n\n"
+                        },
+                        {
+                            "title": "Can I create two accounts for different bonuses?",
+                            "answer": "No, we follow a one‑player‑one‑account policy to keep tournaments, quests, and promos fair.\n\n\n"
+                        },
+                        {
+                            "title": "How do I enable responsible play limits?",
+                            "answer": "Set limits in account settings or contact support to request time‑outs or self‑exclusion — we’ll help you configure it quickly.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
